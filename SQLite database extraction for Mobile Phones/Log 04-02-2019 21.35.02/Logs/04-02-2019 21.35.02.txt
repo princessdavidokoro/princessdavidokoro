@@ -1,0 +1,5 @@
+04/02/2019 21:36:25 D:/Databases/Andriod DB/Viber/viber_messages Viber database successfully loaded
+04/02/2019 21:36:47 The directory  has been loaded
+04/02/2019 21:37:29 C:/Users/pbaby/Documents/Final-Year-Project-master/viber_messages2 Viber database successfully loaded
+04/02/2019 21:37:38 The file you have analysed is located at C:/Users/pbaby/Documents/Final-Year-Project-master/viber_messages2
+04/02/2019 21:37:38 There are (2,) conversations found
